@@ -1,0 +1,6 @@
+PROCESO calcular perimetro y area de una figura de 4 lados 
+  ESCRIBIR "programa que te calcula el perimetro y area por ti mi amor "
+  ESCRIBIR "escribe tu perimetro y area"
+  LEER base, altura
+  area = base * altura
+FINPROCESO
