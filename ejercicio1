@@ -1,0 +1,8 @@
+// saludo formal para pedir el nombre :3
+Proceso Bienvenida
+ESCRIBIR "programa que te saluda :)"
+  ESCRIBIR "buenos dias estrellita la tierra te dice hola y tambien si me podrias decir tu nombre" 
+  LEER nombre
+  ESCRIBIR " "
+  ESCRIBIR "muchas gracias ", nombre, " que tengas un buen dia"
+FinProceso
