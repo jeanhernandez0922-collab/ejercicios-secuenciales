@@ -1,0 +1,19 @@
+// este programita te suma, resta, divide y multiplica 
+Proceso suma_resta_division_multiplicacion
+	Escribir "este programita te suma, resta, divide y multiplica tus 2 mugrientos digitos por si tienes pereza :)"
+	Escribir  "pero primero dime tu nombre por si acaso"
+	leer nombre
+	Escribir "escribe tus 2 digitos que no soy adivino"
+	Leer N1, N2
+	suma = N1 + N2
+	resta = N1 - N2
+	division = N1 / N2
+	multiplicacion = N1 * N2
+	Escribir "aqui tienes tus numeritos (~_~)"
+	Escribir "tu suma es suma es: ", suma
+	Escribir "tu resta es: ", resta
+	Escribir "tu multiplicacion es: ", multiplicacion
+	Escribir "la division es: ", division
+	Escribir "ten tus nuemros, remcomiendame con tus amigos y por favor vuelveeeee"
+	Escribir "ya te extraño ", nombre
+FinProceso
