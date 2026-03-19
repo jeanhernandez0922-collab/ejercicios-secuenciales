@@ -1,0 +1,11 @@
+// programa que calcula los catetos de un triangulo rectangulo y calcular su hipotenusa
+Proceso catetos_y_hipotenusa
+	Escribir "programa que te calcula la hipotenusa con las medidas de los catetos"
+	Escribir " "
+	Escribir "dime tu cateto 1"
+	Leer cat1
+	Escribir "dime tu cateto 2"
+	Leer cat2
+	hipotenusa = raiz (cat1 * cat1 + cat2 * cat2)
+	Escribir "la hipotenusa de tus catetos es: ", hipotenusa
+FinProceso
