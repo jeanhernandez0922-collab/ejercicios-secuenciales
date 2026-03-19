@@ -1,0 +1,12 @@
+Proceso area_y_perimetro
+	Escribir "programa que te calcula el perimetro y area por ti mi amor "
+	ESCRIBIR "escribe tu base "
+	Leer base
+	Escribir "escribe tu altura"
+	Leer altura
+	resulperimetro = 2 * (base + altura)
+	resularea = base * altura
+	Escribir "tu perimetro es:", resulperimetro 
+	Escribir  "tu area es:" resularea 
+FinProceso
+	
