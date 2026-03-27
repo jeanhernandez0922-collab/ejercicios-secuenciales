@@ -1,0 +1,13 @@
+Proceso hallar_la_media_de_tres_numeros
+	Escribir "Este programa te da la media de 3 numero"
+	Escribir "  "
+	Escribir "digite tu primer numero"
+	Leer N1
+	Escribir "digite tu segundo numero"
+	Leer N2
+	Escribir "digite tu tercer numero"
+	Leer N3
+	media = (n1 + n2 + n3) /3
+	Escribir "la media de tus tres numeros es:", media
+FinProceso
+	
