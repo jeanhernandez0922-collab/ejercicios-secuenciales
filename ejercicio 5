@@ -1,0 +1,8 @@
+Algoritmo grados_fahrenheit_a_celcius
+	Escribir "Este programa te ayuda a convertir grados fahrenheit a grados celcius"
+	Escribir " "
+	Escribir "digite tus grados fahrenheint"
+	Leer gradosfahre
+	c = (gradosfahre - 30) * 5/9
+	Escribir "tus grados en grados celcius son: ", c 
+FinAlgoritmo
