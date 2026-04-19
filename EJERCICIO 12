@@ -1,0 +1,8 @@
+Algoritmo DISTANCIA_COORDENADAS
+	Escribir "DIGITE X1 Y LUEGO Y1"
+	Leer X1, Y1
+	Escribir "DIGITE X2 Y LUEGO Y2"
+	Leer X2, Y2
+	DISTANCIA = RC ((X2-X1)^2 + (Y2-Y1)^2)
+	Escribir "LA DISTANCIA ENTRE LOS PUNTOS ES: ", DISTANCIA
+FinAlgoritmo
