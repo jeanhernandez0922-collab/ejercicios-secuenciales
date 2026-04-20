@@ -1,0 +1,6 @@
+Algoritmo MONEDERO
+	Escribir "DIGITE CANTIDAD DE MONEDAS (2E, 1E, 50C, 20C, 10C)"
+	Leer M2, M1, C50, C20, C10
+	CENTIMOS = (M2*200) + (M1*100) + (C50*50) + (C20*20) + (C10*10)
+	Escribir "TIENES ", trunc(CENTIMOS/100), " EUROS Y ", CENTIMOS MOD 100, " CENTIMOS"
+FinAlgoritmo
