@@ -1,0 +1,10 @@
+Algoritmo CALCULAR_PUNTAJE
+	Escribir "RESPUESTAS CORRECTAS"
+	Leer CO
+	Escribir "RESPUESTAS INCORRECTAS"
+	Leer IN
+	Escribir "RESPUESTAS EN BLANCO"
+	Leer BLANCO
+	TOTAL = (CO * 5) + (IN * (-1))
+	Escribir "EL PUNTAJE OBTENIDO ES: ", TOTAL
+FinAlgoritmo
