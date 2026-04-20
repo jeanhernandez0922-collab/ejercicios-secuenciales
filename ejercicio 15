@@ -1,0 +1,10 @@
+Algoritmo INTERCAMBIO_A_B
+	Escribir "DIGITE VALOR DE A"
+	Leer A
+	Escribir "DIGITE VALOR DE B"
+	Leer B
+	AB = A // usamos AB como un lugar para guardar el numero temporalmente
+	A = B
+	B = AB
+	Escribir "AHORA A VALE: ", A, " Y B VALE: ", B
+FinAlgoritmo
