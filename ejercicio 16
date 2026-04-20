@@ -1,0 +1,10 @@
+Algoritmo ALCANCE_AUTOS
+	Escribir "DIGITE VELOCIDAD DEL MAS RAPIDO (KM/H)"
+	Leer V1
+	Escribir "DIGITE VELOCIDAD DEL MAS LENTO (KM/H)"
+	Leer V2
+	Escribir "DIGITE DISTANCIA ENTRE ELLOS (KM)"
+	Leer D
+	TA = (D / (V1 - V2)) * 60
+	Escribir "EL TIEMPO DE ALCANCE ES: ", TA, " MINUTOS"
+FinAlgoritmo
