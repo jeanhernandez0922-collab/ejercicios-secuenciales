@@ -1,0 +1,8 @@
+Algoritmo CALCULO_RAICES
+	Escribir "DIGITE TU NUMERO"
+	Leer NUM
+	RAIZ_2 = NUM ^ (1/2)
+	RAIZ_3 = NUM ^ (1/3)
+	Escribir "LA RAIZ CUADRADA ES: ", RAIZ_2
+	Escribir "LA RAIZ CUBICA ES: ", RAIZ_3
+FinAlgoritmo
