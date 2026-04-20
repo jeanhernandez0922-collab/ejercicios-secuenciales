@@ -1,0 +1,8 @@
+Algoritmo INVERTIR_NUMERO
+	Escribir "DIGITE UN NUMERO DE DOS CIFRAS"
+	Leer NUM
+	DECENAS = trunc(NUM / 10) // trunc sirve para sacar el valor entero sin decimal
+	UNIDADES = NUM MOD 10 // MOD saca el residuo de la division
+	Escribir "EL NUMERO INVERTIDO ES: ", UNIDADES, DECENAS
+FinAlgoritmo
+
